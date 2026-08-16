@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="Industrial plant placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1c1c"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0a0a0a" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <!-- Silhouette: distillation columns / plant pipes -->
+  <g fill="#2a2a2a" opacity="0.9">
+    <rect x="120" y="280" width="48" height="420" rx="4"/>
+    <rect x="200" y="200" width="56" height="500" rx="4"/>
+    <rect x="290" y="320" width="40" height="380" rx="4"/>
+    <rect x="380" y="240" width="52" height="460" rx="4"/>
+    <rect x="470" y="300" width="44" height="400" rx="4"/>
+    <rect x="560" y="220" width="50" height="480" rx="4"/>
+  </g>
+  <g stroke="#3d3d3d" stroke-width="3" fill="none" opacity="0.7">
+    <path d="M168 400 L200 400 L200 350 L290 350"/>
+    <path d="M346 450 L380 450 L380 380 L470 380"/>
+    <path d="M514 420 L560 420 L560 360"/>
+    <path d="M120 520 L560 520"/>
+    <path d="M120 620 L560 620"/>
+  </g>
+  <rect width="800" height="1000" fill="url(#accent)"/>
+  <text x="400" y="920" text-anchor="middle" fill="#c4b5a0" font-family="system-ui,sans-serif" font-size="14" letter-spacing="4" opacity="0.6">PLANT DESIGN</text>
+</svg>
