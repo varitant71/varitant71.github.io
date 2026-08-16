@@ -14,6 +14,7 @@ const i18n = {
     "nav.vision": "포부",
     "nav.contact": "연락",
     "hero.label": "Process Engineer · Plant Design",
+    "hero.note": "바이브 코딩을 이용한 자기소개 페이지 만들기 연습 중",
     "hero.title": "20년, 플랜트 설계 현장에서.",
     "hero.lead":
       "화학공학 전공. 공정 개념 설계부터 상세 설계, 시운전 지원까지 프로젝트 전 주기를 경험한 process engineer입니다.",
@@ -99,6 +100,7 @@ const i18n = {
     "nav.vision": "Vision",
     "nav.contact": "Contact",
     "hero.label": "Process Engineer · Plant Design",
+    "hero.note": "Practicing a self-introduction page with vibe coding",
     "hero.title": "Two decades in plant design.",
     "hero.lead":
       "Chemical engineering graduate with end-to-end project experience — from conceptual process design and detailed engineering to commissioning support.",
